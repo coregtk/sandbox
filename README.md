@@ -1,4 +1,4 @@
 sandbox
 =======
 
-Test repository. Please ignore.
+Just a test repository. Please ignore.
